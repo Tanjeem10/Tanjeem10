@@ -109,11 +109,11 @@ Git • GitHub • VS Code • Visual Studio • Eclipse • IntelliJ IDEA
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: tanju9804@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/tanjeem-343857363/
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: https://tanjeem-portfolif.lovable.app
 
 ---
 
