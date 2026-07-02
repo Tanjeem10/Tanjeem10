@@ -60,6 +60,19 @@ Git • GitHub • VS Code • Visual Studio • Eclipse • IntelliJ IDEA
 ## ⭐ Featured Projects
 
 🔥 AI Travel Planner
+{
+  title: "AI Travel Planner",
+  period: "Personal Project",
+  description:
+    "A modern AI-assisted travel planning platform that helps users discover Indian destinations, generate itineraries, estimate budgets, and organize trips through an intuitive interface.",
+  features: [
+    "AI-generated travel itineraries based on user preferences.",
+    "Budget planning and destination recommendations.",
+    "Responsive design optimized for desktop and mobile.",
+    "Deployed on Vercel with continuous deployment."
+  ],
+  tech: ["React.js", "JavaScript", "C#", "HTML5", "CSS3", "Vercel"],
+}
 
 🤖 AI SQL Query Optimizer
 
