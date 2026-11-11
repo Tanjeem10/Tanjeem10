@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Tanjeem Khan
+# Hi 👋 I'm Tanjeem 
 
 ### 🚀 AI & ML Engineer | Full Stack Developer | C# & Java Developer
 
